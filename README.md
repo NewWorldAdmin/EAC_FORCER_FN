@@ -1,4 +1,4 @@
-@shift /0
+##@shift /0
 @shift /0
 @ECHO OFF
 title EAC Forcer
