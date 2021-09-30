@@ -1,4 +1,7 @@
-##@shift /0
+RUN AS A ADMINSTRATOR - RUN AS BAT
+
+
+@shift /0
 @shift /0
 @ECHO OFF
 title EAC Forcer
